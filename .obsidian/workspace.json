@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spells/level_0/Guidance.md",
-                "mode": "preview",
-                "source": false
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "mode": "source",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Guidance"
+              "title": "Cantrips & Prepared Spells"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/level_0/Guidance.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Guidance"
+              "title": "Backlinks for Cantrips & Prepared Spells"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spells/level_0/Guidance.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Guidance"
+              "title": "Outgoing links from Cantrips & Prepared Spells"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spells/level_0/Guidance.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Guidance"
+              "title": "Outline of Cantrips & Prepared Spells"
             }
           },
           {
@@ -196,8 +196,9 @@
   },
   "active": "7ba20915007aba44",
   "lastOpenFiles": [
-    "character-sheet/Cantrips & Prepared Spells.md",
     "templates/session.md",
+    "spells/level_0/Guidance.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
     "session-notes",
     "Die Geschichte.md",
     "character-sheet",
@@ -221,7 +222,6 @@
     "spells/level_0/Light.md",
     "spells/level_1/Healing Word.md",
     "spells/level_1",
-    "spells/level_0/Guidance.md",
     "spells/level_0",
     "spells/level_1/Heat Metal.md",
     "spells/level_1/Identify.md",
