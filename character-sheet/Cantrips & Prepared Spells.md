@@ -3,6 +3,10 @@
 2. [[Sacred Flame]]
 3. [[Mending]]
 
+|     |  Spell |
+| --- | ------ |
+|     |        |
+
 # Always Prepared
 1. [[Identify]]
 2. [[Searing Smite]]
