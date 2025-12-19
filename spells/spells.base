@@ -1,7 +1,39 @@
+summaries:
+  Checked: values.filter(value == true).length
+  Ausgewählt: values.filter(value == false).length
+filters:
+  or:
+    - file.inFolder("spells/level_0")
+    - file.inFolder("spells/level_1")
+    - file.inFolder("spells/level_2")
+formulas:
+  Untitled: ""
+properties:
+  note.level:
+    displayName: Level
+  file.name:
+    displayName: Name
+  note.always:
+    displayName: Immer
 views:
   - type: table
-    name: Table
+    name: Active
     filters:
-      and:
-        - file.inFolder("spells")
-    sort: []
+      or:
+        - prepared == true
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - level
+      - file.name
+      - always
+    sort:
+      - property: formula.Untitled
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    summaries:
+      always: Ausgewählt
+    columnSize:
+      file.name: 535
