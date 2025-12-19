@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a82de917a8c5afd",
+        "id": "651d967dd2194188",
         "type": "tabs",
         "children": [
           {
-            "id": "23269903c273b626",
+            "id": "b0f03cb89725276a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "spells/Untitled.base",
-                "viewName": "Table"
+                "file": "spells/level_0/Mending.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Mending"
             }
           }
         ]
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/Untitled.base",
+                "file": "spells/level_0/Mending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Mending"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spells/Untitled.base",
+                "file": "spells/level_0/Mending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Mending"
             }
           },
           {
@@ -155,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spells/Untitled.base",
+                "file": "spells/level_0/Mending.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Mending"
             }
           },
           {
@@ -193,14 +194,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb7b85475826490",
+  "active": "b0f03cb89725276a",
   "lastOpenFiles": [
-    "spells/Untitled.canvas",
-    "spells/Untitled.base",
-    "spells/level_0/Guidance.md",
-    "Untitled.base",
     "spells/level_0/Light.md",
     "spells/level_0/Mending.md",
+    "templates/session.md",
+    "templates/spell.md",
+    "spells/level_0/Guidance.md",
+    "spells/level_2/Aid.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "spells/spells.base",
+    "spells/Untitled.canvas",
+    "Untitled.base",
     "spells/level_0/Resistance.md",
     "spells/level_0/Sacred Flame.md",
     "spells/level_0/Spare the Dying.md",
@@ -216,14 +221,10 @@
     "spells/level_1/Purify Drink and Food.md",
     "spells/level_1/Sanctuary.md",
     "spells/level_1/Searing Smite.md",
-    "templates/spell.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
-    "templates/session.md",
     "session-notes",
     "Die Geschichte.md",
     "character-sheet",
     "spells/level_2/Prayer of Healing.md",
-    "spells/level_2/Aid.md",
     "spells/level_2/Lesser Restauration.md",
     "spells/level_2",
     "spells/level_1",

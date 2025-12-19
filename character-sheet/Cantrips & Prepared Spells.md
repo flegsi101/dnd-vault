@@ -1,3 +1,4 @@
+![[spells.base]]
 # Cantrips (3)
 1. [[Thaumaturgy]]
 2. [[Sacred Flame]]
