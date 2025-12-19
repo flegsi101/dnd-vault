@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "651d967dd2194188",
+        "id": "5ca8417e37f87cf5",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f03cb89725276a",
+            "id": "cb152db939450a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spells/level_0/Mending.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mending"
+              "title": "Cantrips & Prepared Spells"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spells/level_0/Mending.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Mending"
+              "title": "Backlinks for Cantrips & Prepared Spells"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spells/level_0/Mending.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Mending"
+              "title": "Outgoing links from Cantrips & Prepared Spells"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spells/level_0/Mending.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mending"
+              "title": "Outline of Cantrips & Prepared Spells"
             }
           },
           {
@@ -194,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0f03cb89725276a",
+  "active": "cb152db939450a58",
   "lastOpenFiles": [
-    "spells/level_0/Light.md",
+    "spells/level_2/Aid.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
     "spells/level_0/Mending.md",
+    "spells/level_0/Light.md",
     "templates/session.md",
     "templates/spell.md",
     "spells/level_0/Guidance.md",
-    "spells/level_2/Aid.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
     "spells/spells.base",
     "spells/Untitled.canvas",
     "Untitled.base",
