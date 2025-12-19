@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "magic initiate": "checkbox",
+    "level": "number",
+    "casting-time": "text",
+    "ritual": "checkbox",
+    "date": "date",
+    "number": "number"
+  }
+}

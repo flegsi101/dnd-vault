@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b387f93cfffa139d",
+        "id": "5e04c1ebce8d5934",
         "type": "tabs",
         "children": [
           {
-            "id": "8366cc0b48fc7568",
+            "id": "7ba20915007aba44",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "templates/session.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "session"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "templates/session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for session"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from session"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "templates/session.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of session"
             }
           },
           {
@@ -187,6 +194,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8366cc0b48fc7568",
-  "lastOpenFiles": []
+  "active": "7ba20915007aba44",
+  "lastOpenFiles": [
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "templates/session.md",
+    "session-notes",
+    "Die Geschichte.md",
+    "character-sheet",
+    "spells/level_1/Sanctuary.md",
+    "spells/level_2/Prayer of Healing.md",
+    "spells/level_2/Aid.md",
+    "spells/level_2/Lesser Restauration.md",
+    "spells/level_1/Purify Drink and Food.md",
+    "spells/level_2",
+    "spells/level_1/Guiding Bolt.md",
+    "spells/level_1/Cure Wounds.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_0/Toll the Dead.md",
+    "spells/level_0/Thaumaturgy.md",
+    "spells/level_0/Spare the Dying.md",
+    "spells/level_1/Searing Smite.md",
+    "spells/level_0/Sacred Flame.md",
+    "spells/level_0/Resistance.md",
+    "spells/level_0/Mending.md",
+    "spells/level_1/Magic Weapon.md",
+    "spells/level_0/Light.md",
+    "spells/level_1/Healing Word.md",
+    "spells/level_1",
+    "spells/level_0/Guidance.md",
+    "spells/level_0",
+    "spells/level_1/Heat Metal.md",
+    "spells/level_1/Identify.md",
+    "templates/spell.md",
+    "spells/Untitled 1.md",
+    "templates",
+    "spells"
+  ]
 }
