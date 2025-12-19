@@ -8,6 +8,8 @@
     "casting-time": "text",
     "ritual": "checkbox",
     "date": "date",
-    "number": "number"
+    "number": "number",
+    "prepared": "checkbox",
+    "always-prepared": "checkbox"
   }
 }

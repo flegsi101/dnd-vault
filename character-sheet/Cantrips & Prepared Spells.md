@@ -4,7 +4,8 @@
 3. [[Mending]]
 
 ```dataview
-LIST 
+TABLE level
+FROM "spells"
 ```
 
 # Always Prepared

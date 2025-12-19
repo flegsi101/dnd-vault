@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e04c1ebce8d5934",
+        "id": "2a82de917a8c5afd",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba20915007aba44",
+            "id": "23269903c273b626",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
-                "mode": "source",
-                "source": true
+                "file": "spells/Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Cantrips & Prepared Spells"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "file": "spells/Untitled.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cantrips & Prepared Spells"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -113,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "file": "spells/Untitled.base",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cantrips & Prepared Spells"
+              "title": "Outgoing links from Untitled"
             }
           },
           {
@@ -156,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "file": "spells/Untitled.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Cantrips & Prepared Spells"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -194,39 +193,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ba20915007aba44",
+  "active": "6cb7b85475826490",
   "lastOpenFiles": [
-    "templates/session.md",
+    "spells/Untitled.canvas",
+    "spells/Untitled.base",
     "spells/level_0/Guidance.md",
+    "Untitled.base",
+    "spells/level_0/Light.md",
+    "spells/level_0/Mending.md",
+    "spells/level_0/Resistance.md",
+    "spells/level_0/Sacred Flame.md",
+    "spells/level_0/Spare the Dying.md",
+    "spells/level_0/Thaumaturgy.md",
+    "spells/level_0/Toll the Dead.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_1/Cure Wounds.md",
+    "spells/level_1/Guiding Bolt.md",
+    "spells/level_1/Healing Word.md",
+    "spells/level_1/Heat Metal.md",
+    "spells/level_1/Identify.md",
+    "spells/level_1/Magic Weapon.md",
+    "spells/level_1/Purify Drink and Food.md",
+    "spells/level_1/Sanctuary.md",
+    "spells/level_1/Searing Smite.md",
+    "templates/spell.md",
     "character-sheet/Cantrips & Prepared Spells.md",
+    "templates/session.md",
     "session-notes",
     "Die Geschichte.md",
     "character-sheet",
-    "spells/level_1/Sanctuary.md",
     "spells/level_2/Prayer of Healing.md",
     "spells/level_2/Aid.md",
     "spells/level_2/Lesser Restauration.md",
-    "spells/level_1/Purify Drink and Food.md",
     "spells/level_2",
-    "spells/level_1/Guiding Bolt.md",
-    "spells/level_1/Cure Wounds.md",
-    "spells/level_0/Word of Radiance.md",
-    "spells/level_0/Toll the Dead.md",
-    "spells/level_0/Thaumaturgy.md",
-    "spells/level_0/Spare the Dying.md",
-    "spells/level_1/Searing Smite.md",
-    "spells/level_0/Sacred Flame.md",
-    "spells/level_0/Resistance.md",
-    "spells/level_0/Mending.md",
-    "spells/level_1/Magic Weapon.md",
-    "spells/level_0/Light.md",
-    "spells/level_1/Healing Word.md",
     "spells/level_1",
     "spells/level_0",
-    "spells/level_1/Heat Metal.md",
-    "spells/level_1/Identify.md",
-    "templates/spell.md",
-    "spells/Untitled 1.md",
     "templates",
     "spells"
   ]
