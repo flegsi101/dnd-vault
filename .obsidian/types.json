@@ -13,6 +13,13 @@
     "always-prepared": "checkbox",
     "session": "number",
     "range": "number",
-    "Components": "multitext"
+    "Components": "multitext",
+    "constitution": "number",
+    "hp-current": "number",
+    "Type": "multitext",
+    "species": "text",
+    "spezies": "text",
+    "sex": "text",
+    "chain-mail": "number"
   }
 }
