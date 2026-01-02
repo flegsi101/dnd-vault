@@ -1,7 +1,7 @@
 - Barahnur‘s Sonh
 
 - Aufegwachsen in „Mern Boldohr“
-- Kleriker von Moradin
+- Kleriker von Bramdura (Feylara)
 
 # Charakter
 - stolz auf Leistungen

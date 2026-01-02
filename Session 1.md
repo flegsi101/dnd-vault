@@ -1,0 +1,89 @@
+---
+session: 1
+date: 2025-12-19
+---
+# Welt
+## Zeitzählung
+- 2 Monde
+	- Mensis: gibt die Jahreszählung vor
+		- 1 Jahr = 10 Monde (zehn Mond = 1 Jahr)
+		- 1 Mond = 25 Tage = 5 Hände
+		- 1 Woche (auch 1 Hand) = 5 Tage
+	- Diluf
+		- mal nah mal weiter weg
+		- lange perioden
+		- nicht so vorhersagbar
+	- beeinflussen die Gezeiten, so start, dass das die Jahreszeiten ausmacht
+	- Ebe, Bretiwasser ist klein, es ist trockener, es kommen weniger schiffe
+	- Auch mal Gezeiten mehrere Monde lang
+- Selenische Zählung
+- Monate:
+	1. ?
+	2. ?
+	3. Teri-Mond / Isaldina-Mond
+## Religion
+- 
+# 16. (3. Monat) Teri Mond / Isaldina-Mond 723
+- südlich des Breitwasser: Nebel
+- Flußstadt auf zwei Hügeln erbaut
+	- Auf dem einen Hügel (östl.) Palast des Fürsten
+	- westlich Türme der Akademi
+- beide Stadtteile fast wie eigene Orte
+
+- Auf einem Podest auf dem Marktplatz steht ein Arachocra, ein Bote
+- verkündet:
+	- 3 tägiges Fest zum Fürstengeburtstag
+	- wer sich aktiv beteiligt kann an vielen Stellen eine Eintrittskarte zum Ball am Ende gewinnen
+- Ließt dann den Ablauf vor:
+- 1. Tag
+	- Eröffnung am Tempel
+	- dann Erfinder Wettbewerb an der Akademi
+	- Barden Wettbewerb
+- 2. Tag
+	- Jahrmarkt
+- 3. Tag
+	- Ball
+	- Endet mit Feuerwerk über dem Breitwasser
+
+- wegen diesem Anlass viele Menschen angereist
+
+- Torren von der Sturmwand (Johanna)
+	- Tiefland
+
+- Ilvali Puck
+	- Gnome
+	- komischerweise mit Hörnern
+
+- Ich im Kloster von Feylara
+
+- Es flattert rein eine Fey
+- Tasche an einer Seite auf der anderen eine Leederbeutel
+- Diadem + Halskette
+- Danni
+
+wir vertreiben uns den Tag bis zum Abend
+
+gehen Abends zur Kneipe: Zur Mutigen Wache
+- shady
+- aber eine der wenigen Kneipen, die zwergisches Bier importieren
+- Wirt heißt Dari
+- ein Drachenatem: -4 Silber Münzen
+
+Ilvali macht einen Auftritt
+- -5 Kupfer
+
+# 17 Teri-Mond 723
+
+Prozession vom Palast durchs Tempelviertel zum Pantheon (Tempel allen Göttern geweiht)
+
+Fürst: Marovin Alarik Cadameia
+Fürstin: Salrin Cadmeia
+1 Sohn (jüngster), 2 Töchter
+
+Nach der Segnung ab zum Erfinderwettbewerb
+
+Aufgeladene Kristalle
+- Magier laden die auf, keine Ahnung wo die herkommen
+
+
+

@@ -10,6 +10,9 @@
     "date": "date",
     "number": "number",
     "prepared": "checkbox",
-    "always-prepared": "checkbox"
+    "always-prepared": "checkbox",
+    "session": "number",
+    "range": "number",
+    "Components": "multitext"
   }
 }

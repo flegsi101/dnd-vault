@@ -4,39 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bc61e9d30dcf353c",
+        "id": "ee8b69acf4fd647c",
         "type": "tabs",
         "children": [
           {
-            "id": "de0954fe9596d83c",
+            "id": "1fc3b511b8696e15",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rolthur.md",
+                "file": "Die Geschichte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rolthur"
+              "title": "Die Geschichte"
             }
           },
           {
-            "id": "1f889ec6eb972ab2",
+            "id": "cec52873258ca4dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spells.md",
+                "file": "Session 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spells"
+              "title": "Session 1"
+            }
+          },
+          {
+            "id": "ee278f1acf54e76f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cantrips & Prepared Spells"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,8 +129,7 @@
         }
       }
     ],
-    "currentTab": 0,
-    "pinned": true
+    "currentTab": 0
   },
   "right": {
     "id": "3904b82c1664a1cb",
@@ -128,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Spells.md",
+            "file": "character-sheet/Cantrips & Prepared Spells.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,9 +208,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c240a0ce6a9d891",
+  "active": "ee278f1acf54e76f",
   "lastOpenFiles": [
-    "Rolthur.md",
-    "Spells.md"
+    "spells/level_0/Thaumaturgy.md",
+    "Die Geschichte.md",
+    "Session 1.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "sessions",
+    "spells/level_1/Cure Wounds.md",
+    "spells/level_0/Guidance.md",
+    "spells/level_0/Light.md",
+    "spells/level_0/Toll the Dead.md",
+    "spells/level_0/Spare the Dying.md",
+    "spells/level_0/Resistance.md",
+    "spells/level_0/Mending.md",
+    "spells/spells.base",
+    "/spells/spells.base",
+    "Spells.md",
+    "templates/session.md",
+    "templates/spell.md",
+    "templates",
+    "spells/level_1/Guiding Bolt.md",
+    "spells/level_1/Purify Drink and Food.md",
+    "spells/level_1/Identify.md",
+    "spells/level_1/Healing Word.md",
+    "spells/level_1/Magic Weapon.md",
+    "spells/level_1/Heat Metal.md",
+    "spells/level_1/Sanctuary.md",
+    "spells/level_1/Searing Smite.md",
+    "spells/level_0/Sacred Flame.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_2/Aid.md",
+    "spells/level_2/Prayer of Healing.md",
+    "spells/level_1",
+    "spells/level_0",
+    "spells/level_2",
+    "spells",
+    "character-sheet",
+    "/templates"
   ]
 }
