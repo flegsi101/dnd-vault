@@ -20,6 +20,8 @@
     "species": "text",
     "spezies": "text",
     "sex": "text",
-    "chain-mail": "number"
+    "chain-mail": "number",
+    "hp-cur": "number",
+    "dmg": "number"
   }
 }

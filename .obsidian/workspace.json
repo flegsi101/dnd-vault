@@ -4,21 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "a53c5cd4edf34e87",
+        "id": "f5ff4341458b6560",
         "type": "tabs",
+        "dimension": 65.49881235154395,
         "children": [
           {
-            "id": "9910a962d796c0ce",
+            "id": "454e7dacb4791e0d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Charakter Sheet.canvas",
+                "viewState": {
+                  "x": -128.86248511807082,
+                  "y": -216.26932630425537,
+                  "zoom": -0.5848319786787036
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Charakter Sheet"
+            }
+          },
+          {
+            "id": "a09f3cde6d25cbc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session-notes/0002.md",
+                "file": "character-sheet/Equipment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002"
+              "title": "Equipment"
+            }
+          },
+          {
+            "id": "1f776fe16d87fafb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cantrips & Prepared Spells"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d249a923b5da2c3c",
+        "type": "tabs",
+        "dimension": 34.50118764845605,
+        "children": [
+          {
+            "id": "dc6dee593ae285c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-notes/003.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "003"
             }
           }
         ]
@@ -78,7 +132,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 278.5,
+    "collapsed": true
   },
   "right": {
     "id": "91f95db12be2035c",
@@ -194,22 +249,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9910a962d796c0ce",
+  "active": "dc6dee593ae285c8",
   "lastOpenFiles": [
+    "character-sheet/Equipment.md",
+    "Untitled.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "Charakter Sheet.canvas",
+    "session-notes/003.md",
+    "spells/level_0/Guidance.md",
+    "character-sheet/Stats.md",
+    "character-sheet/Strength.md",
+    "orte/Zur Mutigen Wache.md",
+    "session-notes/002.md",
+    "session-notes/001.md",
+    "Die Geschichte.md",
+    "character-sheet/stats/strength.md",
+    "character-sheet/stats",
+    "Untitled",
     "personen/Torrun.md",
     "personen/Dari.md",
     "personen/Danni.md",
     "personen/Ilvali.md",
-    "session-notes/0002.md",
-    "Die Geschichte.md",
-    "character-sheet/Equipment.md",
-    "character-sheet/Stats.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
-    "session-notes/0001.md",
-    "orte/Zur Mutigen Wache.md",
     "personen",
     "orte",
-    "spells/level_0/Guidance.md",
     "spells/level_2/Prayer of Healing.md",
     "spells/level_1/Magic Weapon.md",
     "spells/level_1/Searing Smite.md",
@@ -220,18 +282,12 @@
     "spells/level_1/Sanctuary.md",
     "spells/level_1/Purify Drink and Food.md",
     "spells/level_1/Healing Word.md",
-    "spells/level_1/Guiding Bolt.md",
-    "spells/level_1/Cure Wounds.md",
-    "spells/level_0/Word of Radiance.md",
-    "spells/level_0/Light.md",
     "spells/spells.base",
     "spells/Untitled.canvas",
     "Untitled.base",
     "session-notes",
     "character-sheet",
     "spells/level_2",
-    "spells/level_1",
-    "spells/level_0",
-    "templates"
+    "spells/level_1"
   ]
 }

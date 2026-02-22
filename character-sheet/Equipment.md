@@ -16,3 +16,11 @@ hammer: 1
 # Inventory
 Kristallsplitter (ca. 7cm)
 
+# Moneten
+| Währung  | Betrag |
+| -------- | ------ |
+| Kupfer   | 7      |
+| Silber   | 4      |
+| Elektrum |        |
+| Gold     | 6      |
+| Platin   |        |

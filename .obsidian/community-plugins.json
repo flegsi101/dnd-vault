@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "dataview",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "horizontal-blocks",
+  "obsidian-columns"
 ]
