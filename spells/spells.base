@@ -26,7 +26,9 @@ views:
       direction: ASC
     order:
       - level
+      - casting-time
       - file.name
+      - summary
       - always
     sort:
       - property: formula.Untitled
@@ -35,5 +37,7 @@ views:
         direction: ASC
     summaries:
       always: Ausgewählt
+      file.name: Ausgewählt
+      summary: Ausgewählt
     columnSize:
       file.name: 535

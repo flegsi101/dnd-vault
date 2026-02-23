@@ -57,9 +57,10 @@ spell-attack: 5
 animal-handling-prof: 0
 persuasion: 2
 persuasion-prof: 1
-hp-cur: 27
-dmg: 0
-hp-mod: 0
+hp-cur: 20
+dmg: 7
+hp-mod:
+str-save-prof: 0
 ---
 Level: `INPUT[number:level]`
 Proficiency: `INPUT[number:prof]`

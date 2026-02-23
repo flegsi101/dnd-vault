@@ -2,11 +2,9 @@
 level: 0
 prepared: true
 always: true
-range: 30
+range: "30"
 duration: Up to 1 minute
-casting-time: Action
-Components:
-  - Verbal
+casting-time: action
 ---
 Manifest a minor wonder within range. 
 Up to 3 at a time.
