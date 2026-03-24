@@ -5,7 +5,7 @@ hp-current: 0
 con: 14
 con-mod: 2
 hp-max: 27
-hp-temp: 0
+hp-temp:
 prof: 2
 con-save: 2
 str: 16
@@ -57,18 +57,19 @@ spell-attack: 5
 animal-handling-prof: 0
 persuasion: 2
 persuasion-prof: 1
-hp-cur: 20
-dmg: 7
-hp-mod:
+hp-cur: 0
+dmg: 27
+hp-mod: -1
 str-save-prof: 0
 ---
 Level: `INPUT[number:level]`
 Proficiency: `INPUT[number:prof]`
 Initiative: `VIEW[{dex-mod}][math:initiative]`
 
+1 Stufe erschöpfung
 # HP
-| Max                                                          | Temp                    | Current                |
-| ------------------------------------------------------------ | ----------------------- | ---------------------- |
+| Max                                                                 | Temp                    | Current                                           |
+| ------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | `VIEW[8 + {level} * {con-mod} + {hp-diced} + {level}][math:hp-max]` | `INPUT[number:hp-temp]` | `VIEW[{hp-max} + {hp-temp} - {dmg}][math:hp-cur]` |
 
 Damage: `INPUT[number:hp-mod]` `BUTTON[btn-dmg]`

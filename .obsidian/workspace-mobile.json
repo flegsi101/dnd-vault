@@ -6,19 +6,18 @@
       {
         "id": "95f952f809d27724",
         "type": "tabs",
-        "dimension": 53.45323741007194,
         "children": [
           {
-            "id": "b5f5b443fd2e87f6",
+            "id": "ddfc6080be8cfe4a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Charakter Sheet.canvas",
                 "viewState": {
-                  "x": -337.4020442053953,
-                  "y": -296.78973247720614,
-                  "zoom": -0.2888803867991012
+                  "x": -240.81556059617844,
+                  "y": -127.62677656086711,
+                  "zoom": -0.48004702073796723
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -26,53 +25,17 @@
             }
           },
           {
-            "id": "dc5a473a24524098",
+            "id": "b57f74397a58cbcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Die Geschichte.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Geschichte"
-            }
-          },
-          {
-            "id": "ddfc6080be8cfe4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "character-sheet/Equipment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Equipment"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "ceb1b422105d6ff3",
-        "type": "tabs",
-        "dimension": 46.54676258992806,
-        "children": [
-          {
-            "id": "a0353df5a9ce28e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session-notes/004.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "004"
+              "title": "Cantrips & Prepared Spells"
             }
           },
           {
@@ -88,8 +51,37 @@
               "icon": "lucide-file",
               "title": "Stats"
             }
+          },
+          {
+            "id": "dc5a473a24524098",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-notes/006.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "006"
+            }
+          },
+          {
+            "id": "2f3854b143c97e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-sheet/Equipment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipment"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +100,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Dateiexplorer"
         }
       },
       {
@@ -237,33 +229,42 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0353df5a9ce28e5",
+  "active": "b57f74397a58cbcc",
   "lastOpenFiles": [
-    "Die Geschichte.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
-    "character-sheet/Stats.md",
-    "session-notes/004.md",
-    "spells/level_0/Thaumaturgy.md",
-    "spells/level_1/Sanctuary.md",
-    "spells/level_0/Word of Radiance.md",
     "Charakter Sheet.canvas",
     "character-sheet/Equipment.md",
-    "spells/level_1/Magic Weapon.md",
+    "session-notes/006.md",
+    "character-sheet/Stats.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
     "spells/level_0/Sacred Flame.md",
-    "Untitled.canvas",
+    "spells/level_1/Guiding Bolt.md",
     "spells/level_0/Resistance.md",
-    "session-notes/003.md",
+    "spells/level_2/Lesser Restauration.md",
+    "spells/level_1/Healing Word.md",
+    "spells/level_1/Identify.md",
+    "spells/level_0/Thaumaturgy.md",
     "spells/level_0/Guidance.md",
+    "personen/Dari.md",
+    "Pasted image 20260313203603.png",
+    "Pasted image 20260313203516.png",
+    "session-notes/004.md",
+    "session-notes/005.md",
+    "Die Geschichte.md",
+    "spells/level_1/Sanctuary.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_1/Magic Weapon.md",
+    "Untitled.canvas",
+    "session-notes/003.md",
     "spells/level_0/Mending.md",
     "spells/level_2/Aid.md",
     "spells/spells.base",
@@ -271,16 +272,8 @@
     "orte/Zur Mutigen Wache.md",
     "orte",
     "session-notes/002.md",
-    "session-notes/001.md",
     "session-notes",
-    "personen/Danni.md",
-    "personen/Dari.md",
-    "personen/Ilvali.md",
-    "personen/Torrun.md",
     "personen",
-    "/session-notes/003.md",
-    "/session-notes/002.md",
-    "/session-notes/001.md",
     "/character-sheet",
     "/Charakter Sheet.canvas",
     "/session-notes",
