@@ -20,7 +20,7 @@ Kristallsplitter (ca. 7cm)
 | Währung  | Betrag |
 | -------- | ------ |
 | Kupfer   | 7      |
-| Silber   | 4      |
+| Silber   | 2      |
 | Elektrum |        |
 | Gold     | 6      |
 | Platin   |        |

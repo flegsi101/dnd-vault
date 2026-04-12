@@ -57,8 +57,8 @@ spell-attack: 5
 animal-handling-prof: 0
 persuasion: 2
 persuasion-prof: 1
-hp-cur: 20
-dmg: 7
+hp-cur: 27
+dmg: 0
 hp-mod:
 str-save-prof: 0
 ---
@@ -67,8 +67,8 @@ Proficiency: `INPUT[number:prof]`
 Initiative: `VIEW[{dex-mod}][math:initiative]`
 
 # HP
-| Max                                                          | Temp                    | Current                |
-| ------------------------------------------------------------ | ----------------------- | ---------------------- |
+| Max                                                                 | Temp                    | Current                                           |
+| ------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | `VIEW[8 + {level} * {con-mod} + {hp-diced} + {level}][math:hp-max]` | `INPUT[number:hp-temp]` | `VIEW[{hp-max} + {hp-temp} - {dmg}][math:hp-cur]` |
 
 Damage: `INPUT[number:hp-mod]` `BUTTON[btn-dmg]`
