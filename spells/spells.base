@@ -1,6 +1,7 @@
 summaries:
   Checked: values.filter(value == true).length
   Ausgewählt: values.filter(value == false).length
+  Filled: values.filter(!value.isType("null")).length
 filters:
   or:
     - file.inFolder("spells/level_0")
@@ -25,19 +26,13 @@ views:
       property: level
       direction: ASC
     order:
-      - level
-      - casting-time
       - file.name
+      - casting-time
       - summary
-      - always
     sort:
-      - property: formula.Untitled
-        direction: ASC
       - property: file.name
         direction: ASC
     summaries:
       always: Ausgewählt
-      file.name: Ausgewählt
-      summary: Ausgewählt
     columnSize:
       file.name: 535
