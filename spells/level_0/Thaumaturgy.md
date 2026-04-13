@@ -5,6 +5,7 @@ always: true
 range: "30"
 duration: Up to 1 minute
 casting-time: action
+summary: minor wonder
 ---
 Manifest a minor wonder within range. 
 Up to 3 at a time.

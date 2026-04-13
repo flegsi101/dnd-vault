@@ -1,8 +1,8 @@
 # Spell Slots
 
-Stone Cunning: 1 / 2 per Long Rest
+Stone Cunning: 0 / 2 per Long Rest
 
-Lvl. 1: 2 / 4
-Lvl. 2: 1 / 2
+Lvl. 1: 0 / 4
+Lvl. 2: 0 / 2
 
 ![[spells.base]]

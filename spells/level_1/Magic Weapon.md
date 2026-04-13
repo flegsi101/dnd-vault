@@ -8,6 +8,8 @@ components:
   - verbal
   - sensory
 duration: 1 hour
+summary: magify weapon
+concentration: false
 ---
 - touch a weapon that becomes magic weapon
 - +1 to attack and damage rolls

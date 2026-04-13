@@ -15,6 +15,7 @@ hammer: 1
 
 # Inventory
 Kristallsplitter (ca. 7cm)
+Anhänger von Veridania
 
 # Moneten
 | Währung  | Betrag |

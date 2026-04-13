@@ -8,6 +8,7 @@ components:
   - verbal
   - sensory
 duration: instant
+summary: end one condition
 ---
 Verbal:
 Heilige reinige (sie/ihn)

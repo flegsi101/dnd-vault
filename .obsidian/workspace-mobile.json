@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "95f952f809d27724",
+        "id": "f2e455077816d609",
         "type": "tabs",
+        "dimension": 49.280575539568346,
         "children": [
           {
-            "id": "ddfc6080be8cfe4a",
+            "id": "2f3854b143c97e63",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Charakter Sheet.canvas",
                 "viewState": {
-                  "x": -240.81556059617844,
-                  "y": -127.62677656086711,
-                  "zoom": -0.48004702073796723
+                  "x": -310.2797059732777,
+                  "y": -254.40921272708877,
+                  "zoom": -0.20913253995949382
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "Charakter Sheet"
-            }
-          },
-          {
-            "id": "b57f74397a58cbcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cantrips & Prepared Spells"
             }
           },
           {
@@ -53,21 +40,21 @@
             }
           },
           {
-            "id": "dc5a473a24524098",
+            "id": "b57f74397a58cbcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "session-notes/006.md",
+                "file": "character-sheet/Cantrips & Prepared Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006"
+              "title": "Cantrips & Prepared Spells"
             }
           },
           {
-            "id": "2f3854b143c97e63",
+            "id": "e7e250b82a5b8b5d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -81,7 +68,28 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "95f952f809d27724",
+        "type": "tabs",
+        "dimension": 50.719424460431654,
+        "children": [
+          {
+            "id": "ddfc6080be8cfe4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "session-notes/007.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "007"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,44 +247,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b57f74397a58cbcc",
+  "active": "ddfc6080be8cfe4a",
   "lastOpenFiles": [
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "session-notes/007.md",
+    "spells/level_0/Guidance.md",
+    "character-sheet/Stats.md",
     "Charakter Sheet.canvas",
+    "spells/level_0/Thaumaturgy.md",
     "character-sheet/Equipment.md",
     "session-notes/006.md",
-    "character-sheet/Stats.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
+    "spells/level_1/Magic Weapon.md",
+    "spells/level_1/Cure Wounds.md",
+    "spells/level_0/Mending.md",
+    "spells/level_2/Lesser Restauration.md",
+    "spells/level_2/Aid.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_0/Resistance.md",
+    "session-notes/005.md",
+    "/session-notes/005.md",
+    "/session-notes/004.md",
+    "/session-notes/003.md",
+    "/session-notes/001.md",
+    "/session-notes",
+    "/character-sheet/Stats.md",
+    "/character-sheet/Equipment.md",
+    "/character-sheet",
     "spells/level_0/Sacred Flame.md",
     "spells/level_1/Guiding Bolt.md",
-    "spells/level_0/Resistance.md",
-    "spells/level_2/Lesser Restauration.md",
     "spells/level_1/Healing Word.md",
     "spells/level_1/Identify.md",
-    "spells/level_0/Thaumaturgy.md",
-    "spells/level_0/Guidance.md",
-    "personen/Dari.md",
     "Pasted image 20260313203603.png",
     "Pasted image 20260313203516.png",
-    "session-notes/004.md",
-    "session-notes/005.md",
-    "Die Geschichte.md",
-    "spells/level_1/Sanctuary.md",
-    "spells/level_0/Word of Radiance.md",
-    "spells/level_1/Magic Weapon.md",
     "Untitled.canvas",
-    "session-notes/003.md",
-    "spells/level_0/Mending.md",
-    "spells/level_2/Aid.md",
     "spells/spells.base",
-    "Untitled.md",
-    "orte/Zur Mutigen Wache.md",
     "orte",
-    "session-notes/002.md",
     "session-notes",
     "personen",
-    "/character-sheet",
     "/Charakter Sheet.canvas",
-    "/session-notes",
     "/personen",
     "/orte",
     "sessions",

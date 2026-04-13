@@ -57,15 +57,9 @@ spell-attack: 5
 animal-handling-prof: 0
 persuasion: 2
 persuasion-prof: 1
-<<<<<<< HEAD
 hp-cur: 27
 dmg: 0
 hp-mod:
-=======
-hp-cur: 0
-dmg: 27
-hp-mod: -1
->>>>>>> origin/main
 str-save-prof: 0
 ---
 Level: `INPUT[number:level]`
