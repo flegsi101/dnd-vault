@@ -20,7 +20,7 @@ Anhänger von Veridania
 # Moneten
 | Währung  | Betrag |
 | -------- | ------ |
-| Kupfer   | 7      |
+| Kupfer   | 5      |
 | Silber   | 2      |
 | Elektrum |        |
 | Gold     | 6      |
