@@ -4,39 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "f5ff4341458b6560",
+        "id": "2496c0b978c84cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "a09f3cde6d25cbc7",
+            "id": "058172bb66b84ea6",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Charakter Sheet.canvas",
+                "viewState": {
+                  "x": -240,
+                  "y": -120,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Charakter Sheet"
+            }
+          },
+          {
+            "id": "7513cd9507316f01",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character-sheet/Stats.md",
+                "file": "Götter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats"
+              "title": "Götter"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "462f0304f0d2a54b",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1f776fe16d87fafb",
+            "id": "1c008e45ee37de4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "character-sheet/Cantrips & Prepared Spells.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Cantrips & Prepared Spells"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,41 +232,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb7b85475826490",
+  "active": "7513cd9507316f01",
   "lastOpenFiles": [
-    "character-sheet/Stats.md",
-    "character-sheet/Equipment.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
     "Charakter Sheet.canvas",
-    "session-notes/005.md",
-    "session-notes/008.md",
-    "session-notes/007.md",
-    "Untitled.md",
-    "Untitled.canvas",
-    "Pasted image 20260313203603.png",
-    "Pasted image 20260313203516.png",
-    "conflict-files-obsidian-git.md",
-    "session-notes/006.md",
+    "Götter.md",
+    "character-sheet/Stats.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "character-sheet/Equipment.md",
+    "character-sheet/Rholtur.md",
     "Die Geschichte.md",
     "session-notes/001.md",
     "session-notes/002.md",
     "session-notes/003.md",
+    "session-notes/007.md",
+    "session-notes/008.md",
     "session-notes/004.md",
+    "spells/level_2/Aid.md",
+    "spells/level_0/Light.md",
     "spells/level_0/Guidance.md",
-    "character-sheet/Strength.md",
-    "orte/Zur Mutigen Wache.md",
-    "character-sheet/stats/strength.md",
+    "spells/level_0/Resistance.md",
+    "spells/level_0/Mending.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_0/Toll the Dead.md",
+    "spells/level_0/Thaumaturgy.md",
+    "spells/level_0/Spare the Dying.md",
+    "spells/level_0/Sacred Flame.md",
+    "spells/level_0/Word of Radiance 1.md",
+    "session-notes/005.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Pasted image 20260313203603.png",
+    "Pasted image 20260313203516.png",
     "character-sheet/stats",
     "Untitled",
-    "personen/Torrun.md",
-    "personen/Dari.md",
-    "personen/Danni.md",
-    "personen/Ilvali.md",
     "personen",
     "orte",
-    "spells/level_2/Prayer of Healing.md",
-    "spells/level_1/Magic Weapon.md",
-    "spells/level_1/Searing Smite.md",
     "spells/spells.base",
     "spells/Untitled.canvas",
     "Untitled.base",

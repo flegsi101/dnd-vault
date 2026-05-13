@@ -1,0 +1,65 @@
+/* =========================================================
+   Rholtur – Forge Cleric Theme
+   Warme Metalltöne für Obsidian Callouts & UI-Elemente
+   ========================================================= */
+
+/* --- Callout-Farben (Metall) --- */
+
+/* Hero / HP (warmes Kupfer) */
+.callout[data-callout="rholtur-hero"] {
+	--callout-color: 184, 115, 51;
+	--callout-icon: lucide-shield;
+}
+
+/* Attribute (Bronze) */
+.callout[data-callout="rholtur-attr"] {
+	--callout-color: 205, 127, 50;
+	--callout-icon: lucide-dumbbell;
+}
+
+/* Skills (Gold/Bronze) */
+.callout[data-callout="rholtur-skills"] {
+	--callout-color: 218, 165, 32;
+	--callout-icon: lucide-scroll;
+}
+
+/* Kampf (Stahl/Grau-Gold) */
+.callout[data-callout="rholtur-combat"] {
+	--callout-color: 169, 169, 169;
+	--callout-icon: lucide-sword;
+}
+
+/* Zauber (mystisches Amber) */
+.callout[data-callout="rholtur-spells"] {
+	--callout-color: 255, 191, 0;
+	--callout-icon: lucide-sparkles;
+}
+
+/* Features (tiefes Bronze) */
+.callout[data-callout="rholtur-features"] {
+	--callout-color: 139, 90, 43;
+	--callout-icon: lucide-anvil;
+}
+
+/* Allgemeine Callout-Anpassungen */
+.callout[data-callout^="rholtur-"] {
+	border-radius: 8px;
+	border-left-width: 4px;
+}
+
+/* MetaBind-Inputs etwas kompakter im Callout */
+.callout[data-callout^="rholtur-"] .mb-input-wrapper input[type="number"] {
+	width: 60px;
+	text-align: center;
+}
+
+/* Tabelle kompakter */
+.callout[data-callout^="rholtur-"] table {
+	font-size: 0.9em;
+	margin: 0.5em 0;
+}
+
+.callout[data-callout^="rholtur-"] th,
+.callout[data-callout^="rholtur-"] td {
+	padding: 4px 8px;
+}
