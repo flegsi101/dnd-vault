@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "6228c8c31d8a77db",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ec527117eb1af9d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "session-notes/005.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "005"
-            }
-          }
-        ]
-      },
-      {
         "id": "f5ff4341458b6560",
         "type": "tabs",
         "children": [
@@ -31,17 +11,14 @@
             "id": "a09f3cde6d25cbc7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Charakter Sheet.canvas",
-                "viewState": {
-                  "x": -230,
-                  "y": -320,
-                  "zoom": 0
-                }
+                "file": "character-sheet/Stats.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Charakter Sheet"
+              "icon": "lucide-file",
+              "title": "Stats"
             }
           },
           {
@@ -58,7 +35,8 @@
               "title": "Cantrips & Prepared Spells"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,24 +209,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ec527117eb1af9d4",
+  "active": "6cb7b85475826490",
   "lastOpenFiles": [
+    "character-sheet/Stats.md",
+    "character-sheet/Equipment.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "Charakter Sheet.canvas",
+    "session-notes/005.md",
+    "session-notes/008.md",
+    "session-notes/007.md",
     "Untitled.md",
     "Untitled.canvas",
-    "session-notes/005.md",
     "Pasted image 20260313203603.png",
     "Pasted image 20260313203516.png",
     "conflict-files-obsidian-git.md",
-    "character-sheet/Cantrips & Prepared Spells.md",
     "session-notes/006.md",
-    "Charakter Sheet.canvas",
-    "character-sheet/Stats.md",
     "Die Geschichte.md",
     "session-notes/001.md",
     "session-notes/002.md",
     "session-notes/003.md",
     "session-notes/004.md",
-    "character-sheet/Equipment.md",
     "spells/level_0/Guidance.md",
     "character-sheet/Strength.md",
     "orte/Zur Mutigen Wache.md",
@@ -264,8 +244,6 @@
     "spells/level_2/Prayer of Healing.md",
     "spells/level_1/Magic Weapon.md",
     "spells/level_1/Searing Smite.md",
-    "spells/level_1/Heat Metal.md",
-    "spells/level_1/Identify.md",
     "spells/spells.base",
     "spells/Untitled.canvas",
     "Untitled.base",

@@ -29,10 +29,16 @@ views:
       - file.name
       - casting-time
       - summary
+      - always
     sort:
+      - property: always
+        direction: DESC
       - property: file.name
         direction: ASC
     summaries:
       always: Ausgewählt
     columnSize:
-      file.name: 218
+      file.name: 173
+      note.casting-time: 109
+      note.summary: 232
+      note.always: 107
