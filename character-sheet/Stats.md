@@ -1,12 +1,12 @@
 ---
-level: 3
-hp-diced: 10
+level: 5
+hp-diced: 15
 hp-current: 0
 con: 14
 con-mod: 2
-hp-max: 27
-hp-temp:
-prof: 2
+hp-max: 38
+hp-temp: "8"
+prof: 3
 con-save: 2
 str: 16
 str-mod: 3
@@ -28,7 +28,7 @@ wis-save-prof: 1
 religion-prof: 1
 insight-prof: 1
 medicine-prof: 1
-chr-save: 2
+chr-save: 3
 deception: 0
 intimidation: 0
 performance: 0
@@ -43,21 +43,21 @@ arcana: 0
 history: 0
 investigation: 0
 nature: 0
-religion: 5
-wis-save: 5
+religion: 6
+wis-save: 6
 passive-perception: 13
 animal-handling: 3
-insight: 5
-medicine: 5
+insight: 6
+medicine: 6
 perception: 3
 initiative: -1
 spellcast-mod: 3
-spell-save: 13
-spell-attack: 5
+spell-save: 14
+spell-attack: 6
 animal-handling-prof: 0
-persuasion: 2
+persuasion: 3
 persuasion-prof: 1
-hp-cur: 27
+hp-cur: 46
 dmg: 0
 hp-mod:
 str-save-prof: 0
@@ -68,6 +68,15 @@ Initiative: `VIEW[{dex-mod}][math:initiative]`
 
 1 Stufe erschöpfung
 # HP
+
+| src              | points | info               |
+| ---------------- | ------ | ------------------ |
+| gesamt           | 38     |                    |
+| base             | 8      |                    |
+| con              | 10     | con x lvl          |
+| diced            | 15     | 10 (?+?+?) + 1 + 4 |
+| dwaren toughness | 5      | 1 per lvl          |
+
 | Max                                                                 | Temp                    | Current                                           |
 | ------------------------------------------------------------------- | ----------------------- | ------------------------------------------------- |
 | `VIEW[8 + {level} * {con-mod} + {hp-diced} + {level}][math:hp-max]` | `INPUT[number:hp-temp]` | `VIEW[{hp-max} + {hp-temp} - {dmg}][math:hp-cur]` |
@@ -136,15 +145,15 @@ Mod: `VIEW[floor(number(({int} - 10) / 2), 0)][math:int-mod]`
 Score:`INPUT[number:wis]`
 Mod: `VIEW[floor(number(({wis} - 10) / 2), 0)][math:wis-mod]`
 
-| Name | Prof.                                             | Score                                         |
-| ---- | ------------------------------------------------- | --------------------------------------------- |
-| Save | `INPUT[toggle(offValue(0), onValue(1)):wis-save-prof]` | `VIEW[{wis-mod} + {prof} * {wis-save-prof}][math:wis-save]` |
-| Passive Perception |  | `VIEW[10 + {wis-mod}][math:passive-perception]` |
-| Animal Handling | `INPUT[toggle(offValue(0), onValue(1)):animal-handling-prof]` | `VIEW[{wis-mod} + {prof} * {animal-handling-prof}][math:animal-handling]` |
-| Insight | `INPUT[toggle(offValue(0), onValue(1)):insight-prof]` | `VIEW[{wis-mod} + {prof} * {insight-prof}][math:insight]` |
-| Medicine | `INPUT[toggle(offValue(0), onValue(1)):medicine-prof]` | `VIEW[{wis-mod} + {prof} * {medicine-prof}][math:medicine]` |
-| Perception | `INPUT[toggle(offValue(0), onValue(1)):perception-prof]` | `VIEW[{wis-mod} + {prof} * {perception-prof}][math:perception]` |
-| Survival | `INPUT[toggle(offValue(0), onValue(1)):survival-prof]` | `VIEW[{wis-mod} + {prof} * {survival-prof}][math:survival]` |
+| Name               | Prof.                                                         | Score                                                                     |
+| ------------------ | ------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Save               | `INPUT[toggle(offValue(0), onValue(1)):wis-save-prof]`        | `VIEW[{wis-mod} + {prof} * {wis-save-prof}][math:wis-save]`               |
+| Passive Perception |                                                               | `VIEW[10 + {wis-mod}][math:passive-perception]`                           |
+| Animal Handling    | `INPUT[toggle(offValue(0), onValue(1)):animal-handling-prof]` | `VIEW[{wis-mod} + {prof} * {animal-handling-prof}][math:animal-handling]` |
+| Insight            | `INPUT[toggle(offValue(0), onValue(1)):insight-prof]`         | `VIEW[{wis-mod} + {prof} * {insight-prof}][math:insight]`                 |
+| Medicine           | `INPUT[toggle(offValue(0), onValue(1)):medicine-prof]`        | `VIEW[{wis-mod} + {prof} * {medicine-prof}][math:medicine]`               |
+| Perception         | `INPUT[toggle(offValue(0), onValue(1)):perception-prof]`      | `VIEW[{wis-mod} + {prof} * {perception-prof}][math:perception]`           |
+| Survival           | `INPUT[toggle(offValue(0), onValue(1)):survival-prof]`        | `VIEW[{wis-mod} + {prof} * {survival-prof}][math:survival]`               |
 
 # Charisma
 Score:`INPUT[number:chr]`

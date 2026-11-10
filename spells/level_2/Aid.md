@@ -1,7 +1,7 @@
 ---
 level: 2
 prepared: true
-always: false
+always: true
 range: 30 feet
 components:
   - verbal, sensory, material

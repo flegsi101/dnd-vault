@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f2e455077816d609",
+        "id": "ef4ba6d69c34d2db",
         "type": "tabs",
-        "dimension": 49.280575539568346,
         "children": [
           {
-            "id": "2f3854b143c97e63",
+            "id": "c5cba0b900fda462",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Charakter Sheet.canvas",
                 "viewState": {
-                  "x": -222.65484633569736,
-                  "y": -66.45626477541367,
-                  "zoom": -0.5928987606449198
+                  "x": -271.8398198032644,
+                  "y": -100.52325870680743,
+                  "zoom": -0.6242426623040489
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -26,7 +25,21 @@
             }
           },
           {
-            "id": "d85fd9fbd99e735c",
+            "id": "f22370f9a956870a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "character-sheet/Equipment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Equipment"
+            }
+          },
+          {
+            "id": "5ed9e8d2da1b3cec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,25 +52,25 @@
               "title": "Stats"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "95f952f809d27724",
+        "id": "96a5a148b9664d35",
         "type": "tabs",
-        "dimension": 50.719424460431654,
         "children": [
           {
-            "id": "b61d6411c205a2d4",
+            "id": "ed2b01e58cc82717",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "character-sheet/Cantrips & Prepared Spells.md",
+                "file": "spells/level_0/Sacred Flame.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cantrips & Prepared Spells"
+              "title": "Sacred Flame"
             }
           }
         ]
@@ -76,7 +89,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Dateiexplorer"
@@ -218,48 +233,47 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e218ae22e40ee672",
+  "active": "5ed9e8d2da1b3cec",
   "lastOpenFiles": [
+    "character-sheet/Equipment.md",
+    "Charakter Sheet.canvas",
+    "character-sheet/Stats.md",
+    "spells/level_0/Sacred Flame.md",
+    "character-sheet/Cantrips & Prepared Spells.md",
+    "spells/level_1/Magic Weapon.md",
+    "spells/level_0/Word of Radiance.md",
+    "spells/level_2/Aid.md",
+    "spells/spells.base",
+    "spells/level_3/Aura of Vitality.md",
+    "spells/level_3/Spirit Guardians.md",
+    "spells/level_3/Protection From Energy.md",
+    "spells/level_3/Mass Healing Word.md",
+    "spells/level_3/Elemental Weapon.md",
+    "spells/level_3/Clairvoyance.md",
+    "spells/level_3",
+    "spells/level_1/Healing Word.md",
+    "spells/level_1/Cure Wounds.md",
+    "spells/level_1/Sanctuary.md",
+    "spells/level_2/Lesser Restauration.md",
+    "spells/level_1/Heat Metal.md",
+    "spells/level_0/Resistance.md",
+    "spells/level_1/Searing Smite.md",
+    "spells/level_0/Guidance.md",
+    "Die Geschichte.md",
+    "session-notes/004.md",
+    "session-notes/003.md",
+    "session-notes/002.md",
     "/spells/spells.base",
     "/spells",
-    "/character-sheet/Cantrips & Prepared Spells.md",
     "/character-sheet",
-    "spells/level_0/Thaumaturgy.md",
-    "Charakter Sheet.canvas",
-    "character-sheet/Cantrips & Prepared Spells.md",
-    "character-sheet/Stats.md",
-    "session-notes/008.md",
-    "session-notes/007.md",
-    "session-notes/006.md",
-    "character-sheet/Equipment.md",
-    "spells/level_0/Guidance.md",
-    "spells/level_1/Magic Weapon.md",
-    "spells/level_1/Cure Wounds.md",
-    "spells/level_0/Mending.md",
-    "spells/level_2/Lesser Restauration.md",
-    "spells/level_2/Aid.md",
-    "spells/level_0/Word of Radiance.md",
-    "spells/level_0/Resistance.md",
-    "session-notes/005.md",
-    "/session-notes/005.md",
-    "/session-notes/004.md",
-    "/session-notes/003.md",
-    "/session-notes/001.md",
     "/session-notes",
-    "/character-sheet/Stats.md",
-    "/character-sheet/Equipment.md",
-    "spells/level_0/Sacred Flame.md",
-    "spells/level_1/Guiding Bolt.md",
     "Pasted image 20260313203603.png",
     "Pasted image 20260313203516.png",
     "Untitled.canvas",
-    "spells/spells.base",
     "orte",
     "session-notes",
     "personen",
     "/Charakter Sheet.canvas",
-    "/personen",
-    "/orte",
-    "sessions"
+    "/personen"
   ]
 }

@@ -14,13 +14,12 @@ hammer: 1
 - also spellcasting focus
 
 # Inventory
-Kristallsplitter (ca. 7cm)
 Anhänger von Veridania
 
 # Moneten
 | Währung  | Betrag |
 | -------- | ------ |
-| Kupfer   | 5      |
+| Kupfer   | 1      |
 | Silber   | 2      |
 | Elektrum |        |
 | Gold     | 6      |

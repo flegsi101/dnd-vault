@@ -3,7 +3,7 @@ level: 0
 prepared: true
 always: true
 casting-time: action
-range: 120
+range: touch
 duration: 1 round
 components:
   - verbal

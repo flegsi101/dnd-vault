@@ -7,6 +7,7 @@ filters:
     - file.inFolder("spells/level_0")
     - file.inFolder("spells/level_1")
     - file.inFolder("spells/level_2")
+    - file.inFolder("spells/level_3")
 formulas:
   Untitled: ""
 properties:

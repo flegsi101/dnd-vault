@@ -1,7 +1,7 @@
 ---
 level: 2
 prepared: true
-always: false
+always: true
 casting-time: bonus action
 range: touch
 components:
